@@ -1,3 +1,4 @@
+#Exec No 1
 puts "Enter a number between 1 and 100"
 n = gets.to_i
 until n > 1 && n < 100
